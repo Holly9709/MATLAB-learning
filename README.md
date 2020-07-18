@@ -13,3 +13,5 @@
 * Coin test **`rand, cumsum`**
 * Histogram **`histcounts, bar, poissrnd, poisspdf`**
 * cellProblem **`cell`**
+* displayDir **`structs`**
+* handlesPractice **`handles, gca, gcf`**
